@@ -12,27 +12,23 @@
 
 - 🔭 I’m currently working on [ISBlog](https://github.com/Adityashahi4465/ISBlog)
 
-- 🌱 I’m currently learning **Data Science and Expanding Knowledge in MERN Development**
+- 🌱 I’m currently learning **Data Structures and Expanding Knowledge in Flutter Development**
 
-- 👯 I’m looking to collaborate on [MILAAN](https://github.com/Adityashahi4465/milaan)
+- 👯 I’m looking to collaborate on [AssetSecure](https://github.com/Adityashahi4465/AssetSecure)
 
 - 👨‍💻 All of my projects are available at [https://adityashahi.vercel.app/](https://adityashahi.vercel.app/)
 
-- 📝 I regularly write articles on [https://is-blog.vercel.app/](https://is-blog.vercel.app/)
+- 💬 Ask me about **Flutter, Firebase, Riverpod, Dart, C++, DSA, App Development and more**
 
-- 💬 Ask me about **React, Next, MongoDb, Express, C++, DSA, Firebase, Web Development and more**
+- 📫 How to reach me **adityakmcs@gmail.com**
 
-- 📫 How to reach me **inderjeetkncs@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/uc?id=10pnEXBJazd-MsOARzoWoqGBGwpRYztmd](https://drive.google.com/uc?id=10pnEXBJazd-MsOARzoWoqGBGwpRYztmd)
-
-- ⚡ Fun fact **I think I like Cooking Pizza**
+- ⚡ Fun fact **I think I like Singing Songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adityashahi4465" height="30" width="40" /></a>
 <a href="https://fb.com/your_facebook_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your_facebook_username" height="30" width="40" /></a>
-<a href="https://instagram.com/Adityashahi4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Adityashahi4465" height="30" width="40" /></a>
+<a href="https://instagram.com/adi_shahi_eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Adityashahi4465" height="30" width="40" /></a>
 <a href="https://medium.com/inderjeetkmcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="inderjeetkmcs" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/Adityashahi4465" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Adityashahi4465" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Adityashahi4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Adityashahi4465" height="30" width="40" /></a>
