@@ -30,14 +30,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Adityashahi4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adityashahi4465" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adityashahi4465" height="30" width="40" /></a>
 <a href="https://fb.com/your_facebook_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your_facebook_username" height="30" width="40" /></a>
 <a href="https://instagram.com/Adityashahi4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Adityashahi4465" height="30" width="40" /></a>
 <a href="https://medium.com/inderjeetkmcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="inderjeetkmcs" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/Adityashahi4465" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Adityashahi4465" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Adityashahi4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Adityashahi4465" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Adityashahi4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Adityashahi4465" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/inderjeetkmcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="inderjeetkmcs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityashahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Adityashahi4465" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adityakmcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityakmcs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
