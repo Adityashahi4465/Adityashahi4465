@@ -10,13 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adityashahi4465" alt="Adityashahi4465" /></a> </p>
 
-- 🔭 I’m currently working on [ISBlog](https://github.com/Adityashahi4465/ISBlog)
+- 🔭 I’m currently working on [Instagram clone](https://github.com/Adityashahi4465/instagram-clone), [AssetSecure](https://github.com/Adityashahi4465/AssetSecure)
 
 - 🌱 I’m currently learning **Data Structures and Expanding Knowledge in Flutter Development**
 
 - 👯 I’m looking to collaborate on [AssetSecure](https://github.com/Adityashahi4465/AssetSecure)
 
 - 👨‍💻 All of my projects are available at [https://adityashahi.vercel.app/](https://adityashahi.vercel.app/)
+
+- 📽️ I create flutter realated videos on youtube [AdyAid](https://www.youtube.com/@Aditya_Shahi)
 
 - 💬 Ask me about **Flutter, Firebase, Riverpod, Dart, C++, DSA, App Development and more**
 
