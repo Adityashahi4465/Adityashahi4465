@@ -20,11 +20,11 @@
 
 - 📽️ I create flutter realated videos on youtube [AdyAid](https://www.youtube.com/@Aditya_Shahi)
 
-- 💬 Ask me about **Flutter, Firebase, Riverpod, Dart, C++, DSA, App Development and more**
+- 💬 Ask me about **Flutter, Firebase, Appwrite, Riverpod, Dart, C++, DSA, App Development and more**
 
 - 📫 How to reach me **adityakmcs@gmail.com**
 
-- ⚡ Fun fact **I think I like Singing Songs**
+- ⚡ Fun fact **I like Video Editing and Graphic Designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
