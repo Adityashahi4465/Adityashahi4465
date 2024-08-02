@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Shahi</h1>
 <h3 align="center">A passionate Flutter developer and Competitive Programmer from India</h3>
 <p align="center">
-  <a href="https://adityashahi.vercel.app/"><img  alt="Profile" width="100%" src="https://drive.google.com/file/d/1MdGV4WOx7gavqmmZBdV9oUBf64i2TfhM/view?usp=drive_link">
+  <a href="https://adityashahi.vercel.app/"><img  alt="Profile" width="100%" src="https://drive.google.com/uc?export=view&id=1MdGV4WOx7gavqmmZBdV9oUBf64i2TfhM/">
 </a>
 </p>
  
