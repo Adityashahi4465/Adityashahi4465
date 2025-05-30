@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adityashahi4465" alt="Adityashahi4465" /></a> </p>
 
-- 🔭 I’m currently working on [Instagram clone](https://github.com/Adityashahi4465/instagram-clone), [AssetSecure](https://github.com/Adityashahi4465/AssetSecure)
+- 🔭 I’m currently working on Kavya Kunj
 
-- 🌱 I’m currently learning **Data Structures and Expanding Knowledge in Flutter Development**
+- 🌱 I’m currently learning **Data Structurea, Web Development and Expanding Knowledge in Flutter Development**
 
 - 👯 I’m looking to collaborate on [AssetSecure](https://github.com/Adityashahi4465/AssetSecure)
 
